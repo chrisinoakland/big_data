@@ -14,5 +14,3 @@ Using the fundamentals of data infrastructure and showing how technologies fit t
 ### Files
 
 A various assortment of different files that are being used to interact with numerous kinds of "big data" from parsing email messages to reading real-time data from self-driving vehicles.
-
-### Notes
